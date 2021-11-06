@@ -9,7 +9,7 @@ Esta es una lista de ejercicios propuestos para el taller de Dart. Cada ejercici
 4. Un rectángulo puede ser representado en un plano a partir de cuatro puntos. Determine, mediante una función, si dadas las coordenadas de cuatro puntos del plano, estos pueden ser los vértices de un rectángulo
 5. Se sabe que el primer día de un mes es domingo. Haga una función que reciba como entrada un número entero *n (1 <= n <=31)* correspondiente a un día de ese mes e imprima en qué día de la semana cae ese día(domingo, lunes, martes,...) n.
 6. Haga una funcion que reciba como entrada tres números enteros, y diga si hay alguno que sea múltiplo de los otros dos, en caso afirmativo, debe decir cuál es.
-7. Suponga que pide al usuario la fecha de su nacimiento en formato día, mes y año. Escriba un programa que calcule y visualice la edad del individuo con precisión hasta meses (usar 30 días para los meses de forma estándar).
+7. Suponga que pide al usuario la fecha de su nacimiento en formato día, mes y año (DD/MM/YYYY). Escriba un programa que calcule y visualice la edad del individuo con precisión hasta meses (usar 30 días para los meses de forma estándar).
 8. Escriba una función que calcule e imprima el más grande, el más pequeño y la media de N números. El valor de N se solicitará al inicio del programa y los números serán ingresados por el usuario en una lista.
 9. Escriba una función que retorne el factorial de un número ingresado por el usuario usando la sentencia *while*
 10. Se leen diez números, cada uno entre 1 y 30 (agregar validación). Para cada número leído, el programa deberá imprimir un línea conteniendo dicho número en asteriscos adyacentes.
